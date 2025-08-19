@@ -1,7 +1,5 @@
 # 隐私文件 
-input/*
-output/*
-ocr_results/* 
+input/
 .Ds_Store
 
 # Byte-compiled / optimized / DLL files
